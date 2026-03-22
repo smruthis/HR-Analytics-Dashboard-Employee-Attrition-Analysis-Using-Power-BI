@@ -48,7 +48,7 @@ Based on the analysis of **1,470 employees**, the following critical findings we
 | :--- | :--- |
 | `HR_Analytics.pbix` | The interactive Power BI Dashboard file. |
 | `HR_Analytics.csv` | Raw dataset used for the analysis. |
-| `pdf_of_hr_analytics.pdf` | A static export of the final report for quick viewing. |
+| `Dashboard Image.pdf` | A static export of the final report for quick viewing. |
 
 ---
 
